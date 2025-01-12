@@ -1,5 +1,5 @@
 # demo1
-This is my first demo.
+This is my first demo deploying sample appliction using aws copilot
 <br>
-Now i am going to add <br> some comment over here.
+Sample application displaying mount everst app
 
